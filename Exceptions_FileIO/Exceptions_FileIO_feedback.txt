@@ -1,0 +1,60 @@
+09/22/22 17:13
+
+KeyboardInterrupt while loading 'exceptions_fileIO.py': 
+
+-------------------------------------------------------------------------------
+
+09/24/22 22:04
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (25 points):
+ContentFilter.uniform('_OUT_', mode='z') failed to raise a ValueError (no Exception raised)
+ContentFilter.reverse('_OUT_', mode='z') failed to raise a ValueError (no Exception raised)
+ContentFilter.transpose('_OUT_', mode='z') failed to raise a ValueError (no Exception raised)
+ContentFilter.uniform() failed to raise a ValueError (no Exception raised)
+ContentFilter.reverse() failed to raise a ValueError (no Exception raised)
+FileNotFoundError: [Errno 2] No such file or directory: '_OUT_'
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 25/50 = 50.0%
+
+
+Comments:
+	You missed your original soft grade because you forgot to comment out line 144. Please be sure to comment out your function calls next time.
+
+-------------------------------------------------------------------------------
+
+10/11/22 20:45
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (25 points):
+ContentFilter.transpose('_OUT_', mode='w') failed
+Score += 22
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

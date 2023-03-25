@@ -1,0 +1,62 @@
+12/06/22 10:08
+
+Problem 1 (5 points):
+Only Quartet 4 is shown
+Score += 3
+
+Problem 2 (5 points):
+First plot
+Score += 4
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Sorry that was a mistake it is 10/10
+Score += 4
+
+Problem 5 (10 points):
+Minimizer not plotted
+Score += 7
+
+Problem 6 (10 points):
+I just put the rest of the points for problem 4 here. 
+Score += 6
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 34/50 = 68.0%
+
+-------------------------------------------------------------------------------
+
+12/09/22 14:37
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+1 comment per problem
+Score += 4
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,56 @@
+10/27/22 19:21
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+ValueError: power_method() failed to return two objects
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+11/01/22 16:14
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

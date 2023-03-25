@@ -1,0 +1,74 @@
+11/04/22 17:58
+
+image_segmentation.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+11/08/22 19:25
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+connectivity() failed for algebraic connectivity
+	Correct response: 1.5857864376269057
+	Student response: (5.000000000000005+0j)
+connectivity() failed for number of connected components
+	Correct response: 2
+	Student response: 1
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+Green/blue rather than black/white
+Score += 4
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 44/50 = 88.0%
+
+-------------------------------------------------------------------------------
+
+11/14/22 22:09
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+connectivity() failed for algebraic connectivity
+	Correct response: 1.5857864376269057
+	Student response: (5.000000000000005+0j)
+connectivity() failed for number of connected components
+	Correct response: 2
+	Student response: 1
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+Same segments for positive and negative (gray image is green/blue)
+Score += 3
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 43/50 = 86.0%
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,118 @@
+10/01/22 21:45
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+No plot yet
+Score += 0
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+A few more comments 
+Score += 3
+
+Total score: 13/50 = 26.0%
+
+-------------------------------------------------------------------------------
+
+10/06/22 17:32
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+No plot shown
+Score += 0
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+No comments
+Score += 0
+
+Total score: 10/50 = 20.0%
+
+
+Comments:
+	If you need help please email me/slack me/visit my office hours! My info's under the content tab!
+
+-------------------------------------------------------------------------------
+
+10/08/22 16:28
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+No plot shown
+Score += 0
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+More commens (see solar_system function)
+Score += 3
+
+Total score: 13/50 = 26.0%
+
+-------------------------------------------------------------------------------
+
+10/11/22 09:39
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+ValueError: setting an array element with a sequence.
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+More comments
+Score += 3
+
+Total score: 33/50 = 66.0%
+
+-------------------------------------------------------------------------------
+
+12/16/22 12:08
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

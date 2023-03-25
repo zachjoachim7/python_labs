@@ -1,0 +1,55 @@
+09/15/22 18:17
+
+Problem 1 (10 points):
+Failed 'No Room!' case
+ValueError: operands could not be broadcast together with shapes (5,) (6,) 
+
+Problem 2 (10 points):
+Jetpack.put() failed to print "No Room!"
+ValueError: operands could not be broadcast together with shapes (3,) (4,) 
+
+Problem 3 (10 points):
+Backpack.__eq__() failed (different names)
+Backpack.__eq__() failed (different colors)
+Score += 8
+
+Problem 4 (15 points):
+ComplexNumber.conjugate() should return a new ComplexNumber object.
+ComplexNumber.__str__() failed for b < 0
+	Correct response: '(-18-44j)'
+	Student response: '(-18--44j)'
+AttributeError: 'NoneType' object has no attribute 'real'
+
+Code Quality (5 points):
+Missing comments (see __str__ function)
+Score += 0
+
+Total score: 8/50 = 16.0%
+
+
+Comments:
+	If you need help debugging please visit us during office hours or slack/email us!
+
+-------------------------------------------------------------------------------
+
+09/20/22 11:20
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+TypeError: Jetpack.__init__() got an unexpected keyword argument 'max_size'
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
